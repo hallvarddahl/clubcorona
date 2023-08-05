@@ -389,7 +389,7 @@ clip-path: polygon(85% 0, 85% 5%, 86% 11%, 87% 15%, 90% 19%, 95% 23%, 100% 24%, 
 .navbar .menu-items {
   margin-left: -55%;
   padding-top: 10em;
-  padding-left: 10em;
+  padding-left: 4.6em;
   padding-right: 6000px;
   padding-bottom: 3000px;
   transform: translate(-100%);
